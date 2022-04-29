@@ -1,0 +1,4 @@
+name: Jack123F1
+version: '${project.version}'
+main: jack123f1.jack123f1.Jack123F1
+api-version: 1.16
